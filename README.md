@@ -1,7 +1,7 @@
 momentjs-business
 =================
 
-MomentJS extension for business days calculations (without iteration loops)
+MomentJS is an extension for business days calculations (without iteration loops) with moment.js. This is clone of original version with some minor improvements to calculate business days with greather precision and flexibility of setting up workdays/weekends for your needs.
 
 
 Installation
